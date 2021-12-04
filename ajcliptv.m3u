@@ -26,14 +26,23 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tl_939mu/
 #EXTINF:-1, TNT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ntn_6kk/live
 
+#EXTINF:-1, Space
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cb_v219/live
+
 #EXTINF:-1, h&h
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt55/live
+
+#EXTINF:-1, America
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ft10x68k/live
+
+#EXTINF:-1, Cinemax
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cc_m2kff/live
 
 #EXTINF:-1, La 1
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_360.m3u8
 
 #EXTINF:-1, Antena 3
-http://hls.webredirect.org/j7vk/mp_4953.php/https://directo.atresmedia.com/8f61a54c6c51c1050216ff9725a0c35356387839_1638593193/antena3/bitrate_2.m3u8
+http://hls.webredirect.org/j7vk/mp_4953.php/https://directo.atresmedia.com/a6fe8cf01562c563b5567f62f03d7add836d4c3e_1638657806/antena3/bitrate_2.m3u8
 
 #EXTINF:-1, El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
@@ -57,7 +66,7 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 https://query-streamlink-us.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
 
 #EXTINF:-1, Telefe
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/xt_t200r/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/xt_t300r/live
 
 #EXTINF:-1, Globovisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=i16IKcXL4Sg/live
