@@ -9,7 +9,7 @@ https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist
 https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/playlist.m3u8?ex=1627168906&ul=33&sf=6df4b7d19a33143ba958b560c312b034
 
 #EXTINF:-1, VTV - VZLA
-https://vic13stre.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/vtv
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vtv
 
 #EXTINF:-1, Latina Perú
 https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8?&
