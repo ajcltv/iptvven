@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1, RCN
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZSro4Xs_pRrI3_OF1de54fQ)/dm/3/x7vyv0z/s/live-3.m3u8
+
+#EXTINF:-1, TVV
+https://vp01-tvviptv.delivery.fuugo.com/ngrp:vp01-TVV_IPTV-50e217f2_all/playlist.m3u8?ex=1627186220&ul=33&sf=7f9bd33aeb125bf8a18be9b7164d1d67
+
+#EXTINF:-1, IVC
+https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/playlist.m3u8?ex=1627168906&ul=33&sf=6df4b7d19a33143ba958b560c312b034
+
+#EXTINF:-1, VTV - VZLA
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLie0WdaOfb6ann76LkIecCE)/dm/3/x828i6j/s/live-1.m3u8#cell=lnyc
+
+#EXTINF:-1, Latina Perú
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_4.m3u8?&
+
+#EXTINF:-1, Caracol
+https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/58d539f1a3ec37fa097a75de/publish/media_800.m3u8?aid=574462d1cab0f4d50866f001&pid=Y2V05hM8jgLEN5dsqf7sbkplZPCwamUE&sid=2LB3LzHclreMD9TqugMXxVcp59WsLtYv&uid=OX3EyFhEXrNDB8q6Z7S2FM8oj3c78K8R&es=us-b4-p-e-cz3.cdn.mdstrm.com&ote=1638589316034&ot=ulx83P4Bdspz23KwX-WkUw&proto=https&pz=us
+
+#EXTINF:-1, TLT
+https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w92903252.m3u8
+
+#EXTINF:-1, La 1
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_360.m3u8
+
+#EXTINF:-1, Antena 3
+http://hls.webredirect.org/j7vk/mp_4953.php/https://directo.atresmedia.com/992f2e71ac44c8d3964c913627f63f3241146c75_1638518856/antena3/bitrate_2.m3u8
+
+#EXTINF:-1, El Trece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v3a1/mono.m3u8
+
+#EXTINF:-1, El Nueve
+https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/elnueve.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1, teleSur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1, DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1, France 24
+https://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+
+#EXTINF:-1, RT
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+
+#EXTINF:-1, VPItv
+https://stream-04.ix7.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW1W0iAEjdtQ_TrN7ctrku50)/dm/3/x7zfpo2/s/live-1.m3u8#cell=lcore
+
+#EXTINF:-1, Telefe
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/xt_t200r/live
+
+#EXTINF:-1, Globovisión
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=i16IKcXL4Sg/live
+
+#EXTINF:-1, Meridiano TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=V27WSOqrGY0/live
+
+#EXTINF:-1, Venevisión
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-zQh4xk7Mfs/live
+
+#EXTINF:-1, CNN en Español / Solo Vzla
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=O_wExvO5TFs/live
+
