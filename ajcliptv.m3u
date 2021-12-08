@@ -42,7 +42,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cc_m2kff/
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_dvr_720.m3u8
 
 #EXTINF:-1, Antena 3
-http://hls.webredirect.org/j7vk/mp_4953.php/https://directo.atresmedia.com/a6fe8cf01562c563b5567f62f03d7add836d4c3e_1638657806/antena3/bitrate_2.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://piratilla.com/592847/ak?ch=antena3/live
+*http://hls.webredirect.org/j7vk/mp_4953.php/https://directo.atresmedia.com/a6fe8cf01562c563b5567f62f03d7add836d4c3e_1638657806/antena3/bitrate_2.m3u8*
 
 #EXTINF:-1, El Trece
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/990k_wttt/live
