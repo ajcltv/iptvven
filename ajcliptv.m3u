@@ -21,16 +21,28 @@ https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/58d539f1a3ec37fa097a75de/publis
 https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w92903252.m3u8
 
 #EXTINF:-1, Telemundo
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tl_939mu/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tl_556mut/live
+
+#EXTINF:-1, Univisión
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/unv_36kll/live
 
 #EXTINF:-1, TNT
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ntn_95kl/live
 
+#EXTINF:-1, TNT Series
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tt25qal/live
+
 #EXTINF:-1, Space
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cb_v219/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/cb_v220/live
+
+#EXTINF:-1, AXN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/anxcx99/live
+
+#EXTINF:-1, Star Channel
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/rrr_x2dd/live
 
 #EXTINF:-1, h&h
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt55/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/aw_tt47/live
 
 #EXTINF:-1, America
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ft10x68k/live
