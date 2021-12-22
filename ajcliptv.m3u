@@ -80,7 +80,7 @@ https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
 https://query-streamlink-us.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
 
 #EXTINF:-1, Telefe
-https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_1_av-b.m3u8?sd=10&rebase=on&hdntl=exp=1640273506~acl=%2fi%2fevento6hls_1%4048399%2f*~data=hdntl~hmac=1843a80d233b3484410219ab09ba94da5a6d352b5fbb278cb1a6e4f76db0e354
+https://evento6hls-lh.akamaihd.net/i/evento6hls_1@48399/index_1_av-b.m3u8
 
 #EXTINF:-1, Globovisión
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=i16IKcXL4Sg/live
